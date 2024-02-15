@@ -261,20 +261,20 @@ const projects = [
       "Mobile application that allows users to get the weather report depending on where they are. It makes use of the OpenWeather API.",
     tags: [
       {
-        name: "Dart",
+        name: "Kotlin",
         color: "blue-text-gradient",
       },
       {
-        name: "Flutter",
+        name: "Retrofit",
         color: "green-text-gradient",
       },
       {
-        name: "Retrofit",
+        name: "Material",
         color: "pink-text-gradient",
       },
     ],
     image: weather,
-    source_code_link: "https://github.com/kevsalcedo/clima_app",
+    source_code_link: "https://github.com/kevsalcedo/WeatherApp",
   },
 ];
 
