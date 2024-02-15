@@ -20,15 +20,30 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import kotlin from "./tech/kotlin.png";
+import flutter from "./tech/flutter.png";
+import jetpack from "./tech/jetpackcompose.png";
+import postgre from "./tech/postgre.png";
+import sequalize from "./tech/sequalize.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import gaiostudios from "./company/gaiostudios.png";
+import ricova from "./company/ricova.png";
+import cocacola from "./company/cocacola.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import surfstore from "./surfstore.jpg";
+import pidrivers from "./pidrivers.png";
+import weather from "./weather.png";
+
+import gabriel from "./partners/gabrielgon.jpg";
+import carolina from "./partners/carolinatarra.jpg";
+import jorge from "./partners/jorgebarros.jpg";
 
 export {
   logo,
@@ -55,8 +70,22 @@ export {
   meta,
   shopify,
   starbucks,
+  gaiostudios,
+  ricova,
+  cocacola,
   tesla,
   carrent,
   jobit,
   tripguide,
+  kotlin,
+  flutter,
+  jetpack,
+  postgre,
+  sequalize,
+  gabriel,
+  carolina,
+  jorge,
+  surfstore,
+  pidrivers,
+  weather,
 };
